@@ -1,0 +1,26 @@
+{
+  "name": "group3-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node group3-project/server.js",
+    "dev": "node group3-project/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenMyTrinh-nmt/group3-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenMyTrinh-nmt/group3-project/issues"
+  },
+  "homepage": "https://github.com/NguyenMyTrinh-nmt/group3-project#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.3"
+  }
+}
