@@ -11,3 +11,4 @@
 - Xử lý sự kiện và quản lý state trong ứng dụng.  
 - Thêm, sửa, xóa dữ liệu từ giao diện.  
 - Đảm bảo giao diện thân thiện và dễ sử dụng. 
+Cập nhật bởi Quyên để test PR
